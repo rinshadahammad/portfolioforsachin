@@ -1,0 +1,64 @@
+body{
+    text-align: center;
+    margin: 0;
+    background-image: url(https://www.pcclean.io/wp-content/uploads/2020/4/NVvuim.jpg);
+    background-size:cover;
+}
+.menu{
+    position: fixed;
+    width: 100%;
+    background-color: blueviolet;
+    margin-top: 0;
+
+
+
+}
+
+
+.menu{
+    position: fixed;
+    width: 100%;
+    background-color: blueviolet;
+    margin-top: 0;
+}
+a{
+    color: white;
+    text-decoration: none;
+    text-shadow: 2px 2px 2px red;
+}
+.links:hover{
+    font-size: 30px;
+    text-decoration: underline;
+}
+html{
+
+scroll-behavior: smooth;
+}
+.profile{
+    margin-top: 28px;
+    width: 500px;
+    height: 400px;
+}
+#name{
+    font-family: 'Island Moments', cursive;
+    
+}
+#welcome{
+    background: linear-gradient(to bottom right,orange,white,green);
+}
+.line{
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.contact_1 a{
+    text-shadow: none;
+    color: black;
+    
+    }
+.contact_1 h3{
+    display: inline;
+}
+
